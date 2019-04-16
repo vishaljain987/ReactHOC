@@ -1,2 +1,0 @@
-# ReactHOC
-Created with CodeSandbox
